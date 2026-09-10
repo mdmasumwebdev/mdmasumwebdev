@@ -1,23 +1,30 @@
 # Hi there, I'm Md. Masum 👋
 
-### 🚀 WordPress & Elementor Plugin Developer
+### ⚡ AI-Powered WordPress & Elementor Creator | Vibe Coder
 
-I build high-performance WordPress plugins, custom Elementor widgets, and clean, scalable web solutions. Passionate about writing clean PHP, modern JavaScript, and delivering high-converting user experiences.
+I leverage the power of advanced AI orchestration (Antigravity, Claude, LLMs) combined with WordPress domain expertise to build custom plugins, Elementor widgets, and high-converting web experiences—shipping production-ready solutions 10x faster.
 
 ---
 
-### 🛠️ Tech Stack & Skills:
-- **Languages:** PHP, JavaScript, CSS3, HTML5, SQL
+### 💡 How I Build:
+- **The Engine:** AI-assisted engineering & prompt orchestration for rapid, clean code generation.
+- **The Craft:** Architecture design, WordPress standards validation, Elementor widget engineering, and real-world testing.
+- **The Result:** Lightweight, secure, and user-friendly WordPress solutions without the bloat.
+
+---
+
+### 🛠️ Ecosystem & Tools:
+- **AI Tooling:** Google Antigravity, Claude, ChatGPT, Cursor
 - **CMS & Builders:** WordPress Core, Elementor, Elementor Pro
-- **Specialties:** Custom Plugin Development, Elementor Addons, Responsive Design, Speed & SEO Optimization
-- **Tools & Workflow:** Git, GitHub, Local by Flywheel, VS Code
+- **Codebase Technologies:** PHP, JavaScript, CSS3, WordPress Plugin APIs
+- **Environment & Workflow:** LocalWP, Git, GitHub, VS Code
 
 ---
 
-### 📌 Current Focus:
-- 🔭 Developing **Masum Video Testimonials** (Elementor Addon)
-- 🌱 Continuously refining clean code architecture & WordPress best practices
-- 💼 Available for freelance projects & custom WordPress development
+### 📌 Current Projects:
+- 🔭 Building **Masum Video Testimonials** (Custom Elementor Addon built with AI-assisted workflows)
+- 🌱 Exploring modern web best practices, AI-driven automation & Core Web Vitals
+- 💼 Open for custom WordPress projects, Elementor solutions & vibe coding collaborations
 
 ---
 
