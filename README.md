@@ -22,7 +22,7 @@ I leverage the power of advanced AI orchestration (Antigravity, Claude, LLMs) co
 ---
 
 ### 📌 Current Projects:
-- 🔭 Building **Masum Video Testimonials** (Custom Elementor Addon built with AI-assisted workflows)
+- 🔭 Building **Masum Portfolio Elements** (Custom Elementor Addon built with AI-assisted workflows)
 - 🌱 Exploring modern web best practices, AI-driven automation & Core Web Vitals
 - 💼 Open for custom WordPress projects, Elementor solutions & vibe coding collaborations
 
